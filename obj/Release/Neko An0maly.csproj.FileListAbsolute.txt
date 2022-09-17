@@ -1,0 +1,38 @@
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Neko An0maly.exe.config
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Neko An0maly.exe
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Neko An0maly.pdb
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Newtonsoft.Json.dll
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.Rest.ClientRuntime.xml
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\harsh\Desktop\Neko An0maly\bin\Release\Newtonsoft.Json.xml
+C:\Users\harsh\Desktop\Neko An0maly\obj\Release\Neko An0maly.csproj.AssemblyReference.cache
+C:\Users\harsh\Desktop\Neko An0maly\obj\Release\Neko An0maly.csproj.SuggestedBindingRedirects.cache
+C:\Users\harsh\Desktop\Neko An0maly\obj\Release\Neko An0maly.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Neko An0maly\obj\Release\Neko An0maly.csproj.CopyComplete
+C:\Users\harsh\Desktop\Neko An0maly\obj\Release\Neko An0maly.exe
+C:\Users\harsh\Desktop\Neko An0maly\obj\Release\Neko An0maly.pdb
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Neko An0maly.exe.config
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Neko An0maly.exe
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Neko An0maly.pdb
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Newtonsoft.Json.dll
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.Rest.ClientRuntime.xml
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\bin\Release\Newtonsoft.Json.xml
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\obj\Release\Neko An0maly.csproj.AssemblyReference.cache
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\obj\Release\Neko An0maly.csproj.SuggestedBindingRedirects.cache
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\obj\Release\Neko An0maly.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\obj\Release\Neko An0maly.csproj.CopyComplete
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\obj\Release\Neko An0maly.exe
+C:\Users\harsh\Desktop\Neko An0maly 0.0.3\obj\Release\Neko An0maly.pdb
